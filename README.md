@@ -13,3 +13,7 @@ Trabajo de ICC161-1: DISEÑO DE EXPERIENCIA DE USUARIO E/E
 Canva:
 
 https://docs.google.com/drawings/d/1wT0xrSpfOg8GiKWfgBvBCpuqZ3Tr3SkY_X4WfBIqEmA/edit?usp=sharing
+
+Benchmark:
+
+https://www.figma.com/file/HpQgxo2dxerSvi55AmUqz7/Benchmark?type=whiteboard&t=gtpf1OLTfIJbY6Of-1
