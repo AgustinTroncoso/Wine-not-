@@ -1,7 +1,10 @@
 # Wine-not-
 
-Trabajo de ICC161-1: DISEÑO DE EXPERIENCIA DE USUARIO E/E
+Coursework ICC161-1: DISEÑO DE EXPERIENCIA DE USUARIO E/E
 
+A cocktail recipe app centered around liquor preparation offers an exciting platform for mixology enthusiasts, craft beverage lovers, and industry professionals alike. This app would provide users with a wide range of detailed recipes to create a variety of liquors, from classic cocktails to innovative creations.
+
+In addition to being a reliable recipe source, the app would also serve as a social network where users can share their own creations and discover recipes from fellow enthusiasts worldwide. This sharing feature would foster creativity and idea exchange among the user community, making the app a unique destination for homemade liquor enthusiasts.
 ## Members:
 + Vicente Marquez
 + Agustin Troncoso
