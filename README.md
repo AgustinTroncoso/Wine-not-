@@ -2,14 +2,14 @@
 
 Trabajo de ICC161-1: DISEÑO DE EXPERIENCIA DE USUARIO E/E
 
-## Integrantes:
+## Members:
 + Vicente Marquez
 + Agustin Troncoso
 + Belen Bravo
 + David Ibañez
 + Oscar Millalonco
 
-
+As part of the Strategy Plane (Chapter 3 of The Elements of User Experience), a Value Proposition Canvas is used to identify user needs and the application’s objectives. This user-centered approach allows for mapping solutions based on user goals. Additionally, the Canvas is an iterative tool that continuously adjusts based on feedback received.
 Canva:
 
 https://docs.google.com/drawings/d/1wT0xrSpfOg8GiKWfgBvBCpuqZ3Tr3SkY_X4WfBIqEmA/edit?usp=sharing
