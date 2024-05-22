@@ -10,7 +10,7 @@ In addition to being a reliable recipe source, the app would also serve as a soc
 + Agustin Troncoso (Team Lead)
 + Belen Bravo (UX Analist)
 + David Ibañez (Exhibitor)
-+ Oscar Millalonco (UX Designer)
++ Oscar Millalonco (UX Analist)
 
 ## Value Proposition Canvas:
 
@@ -66,6 +66,7 @@ In the Surface Plane (Chapter 7, Elements of User Experience), it is highlighted
 With these wireframes, we can facilitate communication among designers, developers, and stakeholders, allowing for discussion and validation of the layout and functionality of the user interface before implementation.
 
 Wireframes:
+
 Home 
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/02531d0a-3dde-4ea0-b9b2-00b5f8dc615d)
