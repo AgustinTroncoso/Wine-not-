@@ -21,7 +21,7 @@ https://docs.google.com/drawings/d/1wT0xrSpfOg8GiKWfgBvBCpuqZ3Tr3SkY_X4WfBIqEmA/
 
 
 ## Benchmark:
-As part of the Strategy Plane (Chapter 3 of The elements of User Experience), the importance of understanding the competitive environment is addressed, referring to the need for a competitive analysis. In our case, this involves visiting similar websites and applications to identify strengths and weaknesses. Observing how users interact with similar products can provide valuable insights into market expectations and standards. Comparing features and functionalities with those of other products can help better define the project’s requirements and priorities.
+As part of the Strategy Plane (Chapter 3 of The Elements of User Experience), the importance of understanding the competitive environment is addressed, referring to the need for a competitive analysis. In our case, this involves visiting similar websites and applications to identify strengths and weaknesses. Observing how users interact with similar products can provide valuable insights into market expectations and standards. Comparing features and functionalities with those of other products can help better define the project’s requirements and priorities.
 
 The importance of this can be summarized as follows:
 
@@ -39,8 +39,12 @@ https://www.figma.com/file/HpQgxo2dxerSvi55AmUqz7/Benchmark?type=whiteboard&t=gt
 
 <img width="4667" alt="Benchmark3" src="https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/68c74a78-3f26-46f0-918a-fd040c62e455">
 
+## UX PERSONAS:
+Personas are part of both the Strategy Plane and the Scope Plane (Chapter 3 and Chapter 4 of The Elements of User Experience). To begin thinking about a persona, user segmentation must be carried out. This is necessary because we cannot idealize a program for a single ideal user; we must think from an external perspective.
+Creating small groups of different users with common characteristics is essential, which is known as segmentation. Through this segmentation, we can create personas to whom we give a context of daily life, hobbies, concerns, skills, etc., to provide clear identities to our user groups.
+As mentioned in the Scope Plane, with these created personas, we can place them in a scenario when defining requirements, ensuring that the real needs and expectations of our users are addressed.
 
-Uxd Persona:
+UXD Personas:
 
 https://www.figma.com/design/bcYBGQgToWveR5jD8TLEZC/UX-Personas?node-id=163%3A2&t=3GUdmhKcBHWE4HIs-1
 
