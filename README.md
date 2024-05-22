@@ -14,7 +14,7 @@ In addition to being a reliable recipe source, the app would also serve as a soc
 
 ## Value Proposition Canvas:
 
-As part of the Strategy Plane (Chapter 3 of The Elements of User Experience), a Value Proposition Canvas is used to identify user needs and the application’s objectives. This user-centered approach allows for mapping solutions based on user goals. Additionally, the Canvas is an iterative tool that continuously adjusts based on feedback received.
+As part of the Strategy Plane (Chapter 3, The Elements of User Experience), a Value Proposition Canvas is used to identify user needs and the application’s objectives. This user-centered approach allows for mapping solutions based on user goals. Additionally, the Canvas is an iterative tool that continuously adjusts based on feedback received.
 
 Canva:
 
@@ -24,7 +24,7 @@ https://docs.google.com/drawings/d/1wT0xrSpfOg8GiKWfgBvBCpuqZ3Tr3SkY_X4WfBIqEmA/
 
 
 ## Benchmark:
-As part of the Strategy Plane (Chapter 3 of The Elements of User Experience), the importance of understanding the competitive environment is addressed, referring to the need for a competitive analysis. In our case, this involves visiting similar websites and applications to identify strengths and weaknesses. Observing how users interact with similar products can provide valuable insights into market expectations and standards. Comparing features and functionalities with those of other products can help better define the project’s requirements and priorities.
+As part of the Strategy Plane (Chapter 3, The Elements of User Experience), the importance of understanding the competitive environment is addressed, referring to the need for a competitive analysis. In our case, this involves visiting similar websites and applications to identify strengths and weaknesses. Observing how users interact with similar products can provide valuable insights into market expectations and standards. Comparing features and functionalities with those of other products can help better define the project’s requirements and priorities.
 
 The importance of this can be summarized as follows:
 
@@ -43,7 +43,7 @@ https://www.figma.com/file/HpQgxo2dxerSvi55AmUqz7/Benchmark?type=whiteboard&t=gt
 <img width="4667" alt="Benchmark3" src="https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/68c74a78-3f26-46f0-918a-fd040c62e455">
 
 ## UX PERSONAS:
-Personas are part of both the Strategy Plane and the Scope Plane (Chapter 3 and Chapter 4 of The Elements of User Experience). To begin thinking about a persona, user segmentation must be carried out. This is necessary because we cannot idealize a program for a single ideal user; we must think from an external perspective.
+Personas are part of both the Strategy Plane and the Scope Plane (Chapter 3 and Chapter 4, The Elements of User Experience). To begin thinking about a persona, user segmentation must be carried out. This is necessary because we cannot idealize a program for a single ideal user; we must think from an external perspective.
 Creating small groups of different users with common characteristics is essential, which is known as segmentation. Through this segmentation, we can create personas to whom we give a context of daily life, hobbies, concerns, skills, etc., to provide clear identities to our user groups.
 As mentioned in the Scope Plane, with these created personas, we can place them in a scenario when defining requirements, ensuring that the real needs and expectations of our users are addressed.
 
@@ -57,4 +57,17 @@ https://www.figma.com/design/bcYBGQgToWveR5jD8TLEZC/UX-Personas?node-id=163%3A2&
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/de4b7a96-eb52-48ec-8638-6ea4b3f89346)
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/803f02a9-2621-4477-96f6-ae5eeb3ebb59)
+
+## LOW-FI INTERFACE:
+
+
+Once the requirements have been defined and user needs have been iterated upon, wireframe design begins as part of The Skeleton Plane (Chapter 6, Elements of User Experience). In this preliminary stage of design, key aspects of interface, navigation, and design are identified. From this, a mockup is created representing how the design will communicate with the user and how information will be presented.
+In the Surface Plane (Chapter 7, Elements of User Experience), it is highlighted that wireframes provide a clear guide for implementing the final user interface. This stage focuses on the visual design and final presentation of the interface, utilizing wireframes as a foundation upon which to build the complete user interface.
+With these wireframes, we can facilitate communication among designers, developers, and stakeholders, allowing for discussion and validation of the layout and functionality of the user interface before implementation.
+
+Wireframes:
+
+
+
+
 
