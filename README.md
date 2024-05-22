@@ -9,7 +9,7 @@ Trabajo de ICC161-1: DISEÑO DE EXPERIENCIA DE USUARIO E/E
 + David Ibañez
 + Oscar Millalonco
 
-  Value Proposition Canvas
+## Value Proposition Canvas:
 
 As part of the Strategy Plane (Chapter 3 of The Elements of User Experience), a Value Proposition Canvas is used to identify user needs and the application’s objectives. This user-centered approach allows for mapping solutions based on user goals. Additionally, the Canvas is an iterative tool that continuously adjusts based on feedback received.
 
