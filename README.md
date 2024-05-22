@@ -6,11 +6,11 @@ A cocktail recipe app centered around liquor preparation offers an exciting plat
 
 In addition to being a reliable recipe source, the app would also serve as a social network where users can share their own creations and discover recipes from fellow enthusiasts worldwide. This sharing feature would foster creativity and idea exchange among the user community, making the app a unique destination for homemade liquor enthusiasts.
 ## Members:
-+ Vicente Marquez
-+ Agustin Troncoso
-+ Belen Bravo
-+ David Ibañez
-+ Oscar Millalonco
++ Vicente Marquez (UX Designer)
++ Agustin Troncoso (Team Lead)
++ Belen Bravo (UX Analist)
++ David Ibañez (UX researcher)
++ Oscar Millalonco (UX researcher)
 
 ## Value Proposition Canvas:
 
