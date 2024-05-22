@@ -44,8 +44,8 @@ https://www.figma.com/file/HpQgxo2dxerSvi55AmUqz7/Benchmark?type=whiteboard&t=gt
 
 ## UX PERSONAS:
 Personas are part of both the Strategy Plane and the Scope Plane (Chapter 3 and Chapter 4, The Elements of User Experience). To begin thinking about a persona, user segmentation must be carried out. This is necessary because we cannot idealize a program for a single ideal user; we must think from an external perspective.
-Creating small groups of different users with common characteristics is essential, which is known as segmentation. Through this segmentation, we can create personas to whom we give a context of daily life, hobbies, concerns, skills, etc., to provide clear identities to our user groups.
-As mentioned in the Scope Plane, with these created personas, we can place them in a scenario when defining requirements, ensuring that the real needs and expectations of our users are addressed.
+Creating small groups of different users with common characteristics, known as segmentation, is essential. Through this segmentation, we can create personas to whom we assign contexts of daily life, hobbies, concerns, skills, etc., providing clear identities to our user groups.
+As mentioned in the Scope Plane, with these created personas, we can place them in a scenario when defining requirements, ensuring that the real needs and expectations of our users are addressed. These personas help align the vision of the team in the development of the app.
 
 UXD Personas:
 
