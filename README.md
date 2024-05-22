@@ -66,7 +66,20 @@ In the Surface Plane (Chapter 7, Elements of User Experience), it is highlighted
 With these wireframes, we can facilitate communication among designers, developers, and stakeholders, allowing for discussion and validation of the layout and functionality of the user interface before implementation.
 
 Wireframes:
-
+Home 
+![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/02531d0a-3dde-4ea0-b9b2-00b5f8dc615d)
+SideBar
+![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/b30430c2-52f8-46c7-9a0d-5964ea35cd97)
+Recetas Aplicacion
+![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/1f453685-5157-4fe9-b963-0d232fb8a44b)
+Mi Perfil
+![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/6ea5534a-35cf-4afd-8b1f-6a0e2e5893ca)
+Cocktail Receta
+![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/4ea5abd5-1779-4e33-a225-50b9dec107db)
+Comentario Receta
+![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/96fc4f48-9029-4638-8524-23a8e7c23b50)
+Receta Comunidad
+![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/4838c5dd-c871-4c0a-960d-9de071251af3)
 
 
 
