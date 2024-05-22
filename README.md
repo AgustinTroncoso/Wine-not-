@@ -58,6 +58,9 @@ https://www.figma.com/design/bcYBGQgToWveR5jD8TLEZC/UX-Personas?node-id=163%3A2&
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/803f02a9-2621-4477-96f6-ae5eeb3ebb59)
 
+## FIGMA LINK:
+https://www.figma.com/design/DS5e1TJl7YkBYeWtXT8Pyx/Actividad?node-id=0%3A1&t=D5Ai8JWpyPdsZwAr-1
+
 ## LOW-FI INTERFACE:
 
 
