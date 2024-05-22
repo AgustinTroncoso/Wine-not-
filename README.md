@@ -25,9 +25,10 @@ As part of the Strategy Plane, the importance of understanding the competitive e
 
 The importance of this can be summarized as follows:
 
-Identifying Best Practices: Seeing what strategies and approaches have worked well in other similar contexts can provide valuable insights for your own design.
-Differentiation: Helps identify ways to differentiate your product or service by highlighting unique features or improving areas where other products are deficient.
-Avoiding Common Mistakes: Learning from the mistakes and deficiencies observed in other products can prevent making the same errors in your own product development.
+- Identifying Best Practices: Seeing what strategies and approaches have worked well in other similar contexts can provide valuable insights for your own design.
+- Differentiation: Helps identify ways to differentiate your product or service by highlighting unique features or improving areas where other products are deficient.
+- Avoiding Common Mistakes: Learning from the mistakes and deficiencies observed in other products can prevent making the same errors in your own product development.
+
 Benchmark:
 
 https://www.figma.com/file/HpQgxo2dxerSvi55AmUqz7/Benchmark?type=whiteboard&t=gtpf1OLTfIJbY6Of-1
