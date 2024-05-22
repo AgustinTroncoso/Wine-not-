@@ -21,7 +21,7 @@ https://docs.google.com/drawings/d/1wT0xrSpfOg8GiKWfgBvBCpuqZ3Tr3SkY_X4WfBIqEmA/
 
 
 ## Benchmark:
-As part of the Strategy Plane, the importance of understanding the competitive environment is addressed, referring to the need for a competitive analysis. In our case, this involves visiting similar websites and applications to identify strengths and weaknesses. Observing how users interact with similar products can provide valuable insights into market expectations and standards. Comparing features and functionalities with those of other products can help better define the project’s requirements and priorities.
+As part of the Strategy Plane (Chapter 3 of The elements of User Experience), the importance of understanding the competitive environment is addressed, referring to the need for a competitive analysis. In our case, this involves visiting similar websites and applications to identify strengths and weaknesses. Observing how users interact with similar products can provide valuable insights into market expectations and standards. Comparing features and functionalities with those of other products can help better define the project’s requirements and priorities.
 
 The importance of this can be summarized as follows:
 
