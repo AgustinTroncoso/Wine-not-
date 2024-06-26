@@ -146,10 +146,10 @@ Community recipes
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/4c72a25d-84e0-453c-a4ef-77d0d5bfcef8)
 
-New High-end:
+## NEW HIGH-END INTERFACE:
 
 ![new high-end](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/high%20new.png)
 
-Structure:
+## STRUCTURE:
 
 ![structure](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/structure.png)
