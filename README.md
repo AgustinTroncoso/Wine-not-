@@ -153,4 +153,3 @@ New High-end:
 Structure:
 
 ![structure](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/structure.png)
-
