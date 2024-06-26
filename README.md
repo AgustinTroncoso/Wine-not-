@@ -81,35 +81,34 @@ SideBar
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/b30430c2-52f8-46c7-9a0d-5964ea35cd97)
 
 
-Recetas Aplicacion
+Application recipes
 
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/1f453685-5157-4fe9-b963-0d232fb8a44b)
 
 
-Mi Perfil
+Profile
 
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/6ea5534a-35cf-4afd-8b1f-6a0e2e5893ca)
 
 
-Cocktail Receta
+Cocktail recipe
 
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/4ea5abd5-1779-4e33-a225-50b9dec107db)
 
 
-Comentario Receta
+Comments recipe
 
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/96fc4f48-9029-4638-8524-23a8e7c23b50)
 
 
-Receta Comunidad
+Community recipe
 
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/4838c5dd-c871-4c0a-960d-9de071251af3)
-
 
 
 ## HIGH-END INTERFACE:
