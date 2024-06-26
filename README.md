@@ -20,7 +20,7 @@ Canva:
 
 https://docs.google.com/drawings/d/1wT0xrSpfOg8GiKWfgBvBCpuqZ3Tr3SkY_X4WfBIqEmA/edit?usp=sharing
 
-![Copia de Template Value Proposition Canvas](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/6f7a1319-e81c-48ef-ab71-d306e8640f00)
+![Value Proposition](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/Value%20Proposition%20Canvas.png)
 
 
 ## Benchmark:
