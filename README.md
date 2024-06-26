@@ -157,6 +157,4 @@ To enhance accessibility in our mobile application WineNot, focusing on cocktail
 
 ![new high-end](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/high%20new.png)
 
-STRUCTURE
 
-![structure](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/structure.png)
