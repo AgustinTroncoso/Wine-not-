@@ -58,6 +58,11 @@ https://www.figma.com/design/bcYBGQgToWveR5jD8TLEZC/UX-Personas?node-id=163%3A2&
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/803f02a9-2621-4477-96f6-ae5eeb3ebb59)
 
+## STRUCTURE:
+A navigation map would facilitate the clear organization of categories and the overall structure of WineNot, allowing users to quickly find recipes by alcohol type, ingredients, and other categories. Additionally, it would enhance user flow by providing intuitive navigation, ensuring that key functions such as recipe publishing and communication with other baristas are easily accessible.
+
+![structure](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/structure.png)
+
 ## FIGMA LINK:
 https://www.figma.com/design/DS5e1TJl7YkBYeWtXT8Pyx/Actividad?node-id=0%3A1&t=D5Ai8JWpyPdsZwAr-1
 
@@ -147,9 +152,9 @@ Community recipes
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/4c72a25d-84e0-453c-a4ef-77d0d5bfcef8)
 
 ## NEW HIGH-END INTERFACE:
+To enhance accessibility in our mobile application WineNot, focusing on cocktail recipes and social networking, we are implementing several initiatives. The gender-neutral approach ensures we do not assume gender identities when interacting with users, promoting an inclusive environment from registration through to continuous use of the app. Adjustable font sizes improve readability for users with vision impairments, allowing them to customize text size as needed. Adequate spacing between options and a color palette adapted for color blindness ensure an intuitive and accessible user experience for all. These measures not only meet accessibility standards but also enhance the overall usability of the interface, making WineNot accessible and user-friendly for a diverse range of users.
+
 
 ![new high-end](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/high%20new.png)
 
-## STRUCTURE:
 
-![structure](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/structure.png)
