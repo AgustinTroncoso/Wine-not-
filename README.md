@@ -123,19 +123,19 @@ Home
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/e7c8b3ea-6f57-453a-9e40-dfb84eadf362)
 
-Recetas Aplicacion
+Applicacion recipe
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/2662548e-22e9-4e40-a939-49ffb942f5fc)
 
-Mi Perfil
+Profile
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/7dd84906-e18e-4601-a923-ba928034372a)
 
-Cocktail Receta
+Cocktail recipe
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/43a8c4e1-d469-42f2-a55a-2c2a2dc642e5)
 
-Comentarios Recetas
+Comments Recipe
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/a2869772-87e1-4540-afc8-359dc27d130c)
 
@@ -143,7 +143,15 @@ SideBar
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/f2b6c561-645f-4be9-908c-0b8516db507f)
 
-Recetas Comunidad
+Community recipes
 
 ![image](https://github.com/AgustinTroncoso/Wine-not-/assets/143847982/4c72a25d-84e0-453c-a4ef-77d0d5bfcef8)
+
+New High-end:
+
+![new high-end](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/high%20new.png)
+
+Structure:
+
+![structure](https://github.com/AgustinTroncoso/Wine-not-/blob/main/assetspublic/structure.png)
 
